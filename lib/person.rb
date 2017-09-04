@@ -21,8 +21,7 @@ class Person
   end
 end
 
-kanye = Person.new
-kanye.name = "Kanye"
+kanye = Person.new("Kanye", "West")
 puts kanye.name
 kanye.name = "Yeezy"
 puts kanye.name
