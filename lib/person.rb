@@ -25,5 +25,5 @@ end
 
 kanye = Person.new("Kanye", "West")
 puts kanye.name
-kanye.name = ("Yeezy")
+kanye.name = "Yeezy"
 puts kanye.name
